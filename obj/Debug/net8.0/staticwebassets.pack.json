@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kamil\\source\\repos\\Martial_Fighter\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Martial_Fighter.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Martial_Fighter.props",
+      "PackagePath": "build\\Martial_Fighter.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Martial_Fighter.props",
+      "PackagePath": "buildMultiTargeting\\Martial_Fighter.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Martial_Fighter.props",
+      "PackagePath": "buildTransitive\\Martial_Fighter.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
